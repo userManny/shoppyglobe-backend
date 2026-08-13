@@ -57,3 +57,7 @@ node server.js
 The server runs at:
 
 http://localhost:3000
+
+## GitHub Repository
+
+[GitHub Repository](https://github.com/userManny/shoppyglobe-backend)
